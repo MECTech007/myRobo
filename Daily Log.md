@@ -24,11 +24,11 @@ Tomorrow we are going to simplify it down further into one smooth code base.
 
 TODO:
 
-[] Simplify Code Base/Methods
-[] Work on Autonomous -> Lets make something Amazing
-[] We need to figure out the 'triggers' for the xbox controller
-[] Figure out the 'triggers' for the Joystick
-[] Start on Tele-Op Control
+* [] Simplify Code Base/Methods
+* [] Work on Autonomous -> Lets make something Amazing
+* [] We need to figure out the 'triggers' for the xbox controller
+* [] Figure out the 'triggers' for the Joystick
+* [] Start on Tele-Op Control
   * Make Configurations for Controller and Joystick
   * Start on coding the 'arm'
     > (prototype the code for when we get the shooter complete and attached)
