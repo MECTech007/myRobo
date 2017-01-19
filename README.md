@@ -4,7 +4,7 @@ Placeholder Text
 *****
 ##01.20.17 & 01.21.17
 No Meeting Friday Jan. 20th, 2017  
-FTC Comp. Saturday Jan. 21st, 2017
+FTC Comp. Saturday Jan. 21st, 2017  
 *****
 TODO:
 
