@@ -29,8 +29,8 @@ TODO:
 * [ ] We need to figure out the 'triggers' for the xbox controller
 * [ ] Figure out the 'triggers' for the Joystick
 * [ ] Start on Tele-Op Control
-  * Make Configurations for Controller and Joystick
-  * Start on coding the 'arm'
-    > (prototype the code for when we get the shooter complete and attached)
+  * [ ] Make Configurations for Controller and Joystick
+  * [ ] Start on coding the 'arm'
+    * (prototype the code for when we get the shooter complete and attached)
 
 ###### I'm going to upload all of the source code to Github for better version control but we'll still upload individual tarballs to the Drive
